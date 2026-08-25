@@ -1,6 +1,6 @@
 # Student Mental Health Score Prediction: End-to-End Machine Learning System
 
-A production-grade machine learning project that predicts continuous student wellbeing scores (scale 1 to 10) from digital consumption patterns, sleep duration, study habits, physical activity, and stress metrics.
+A production-level machine learning project that predicts continuous student wellbeing scores (scale 1 to 10) from digital consumption patterns, sleep duration, study habits, physical activity, and stress metrics.
 
 ```mermaid
 flowchart LR
